@@ -1,89 +1,58 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Trevin Jones's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Trevin Jones
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+  <a href="trevindjones@gmail.com">trevindjones@gmail.com</a>
+| <a href="https://www.linkedin.com/in/trevin-jones-524a44241">LinkedIn</a>
+| <a href="https://github.com/trevin-j">GitHub</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Computer Science major
+- 3.984 Major GPA
 
 
 ## Related Experience
 
-### Internships
+### Hackathon
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+I took part in the "Hackademia" hackathon in June 2022.
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Worked with a team to develop a Google Chrome extension designed to help schedule events.
+- Worked with JavaScript, HTML, and CSS to create a responsive, user-friendly interface.
 
-### Data Science Lead
+### Team Project - Android Application
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+I worked with a team from January 2022 to April 2022 to create an Android application.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Worked with Android Studio and the Java language to create a simple application.
+- The app was designed to quiz users on their knowledge of the Python programming language.
+- We collaborated using GitHub to manage the project.
+- The application can be found on my [GitHub](https://github.com/trevin-j).
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+## My Projects
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+Here I have listed a few projects I have worked on.
 
-### Data Science Consulting Team
+### SortingVisualizer
 
-`January 2027 - April 2027`
-__Imagine Learning__
+This was a fun project designed to visualize different sorting algorithms.
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Developed in C++
+- Uses the SFML library for graphics.
+- Each algorithm was implemented by me.
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+### learn-programming-with-python
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+This is a work-in-progress project that I am working on to teach others how to program using Python.
 
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Tutorials are written in Markdown.
+- Each page is hosted live on GitHub Pages.
+- Every tutorial has examples and challenges for the user to solve using Python.
